@@ -6,4 +6,4 @@ data = {
 }
 df = pd.DataFrame(data)
 df.to_csv("data.csv", index=False)
-print("CSV created")
+print("CSV file created successfully")
