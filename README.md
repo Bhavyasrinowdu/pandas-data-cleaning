@@ -1,23 +1,17 @@
-# Pandas Data Cleaning Project
-
+# Pandas Data Analysis Project
 ## Overview
-This project demonstrates data creation, cleaning, and basic analysis using Python Pandas.
-
-## Steps Performed
-- Created dataset using Pandas
+This project demonstrates dataset creation, cleaning, and basic analysis using Python Pandas.
+## Steps
+- Created dataset using Python
 - Exported data to CSV
-- Handled missing values
-- Removed duplicates
-- Performed basic data analysis
-
+- Cleaned dataset
+- Performed basic analysis
 ## Files
-- data.csv → raw dataset
-- clean_data.py → data cleaning script
-- analysis.py → data analysis script
-
+- create_csv.py → dataset creation
+- clean_data.py → data cleaning
+- analysis.py → data analysis
 ## Tools Used
 - Python
 - Pandas
-
 ## Outcome
-Clean dataset with basic insights generated successfully.
+A clean dataset with basic insights generated successfully.
